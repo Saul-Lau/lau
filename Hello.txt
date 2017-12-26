@@ -1,3 +1,7 @@
 Hello_1 -- User1
 Hello_2 -- User2
+<<<<<<< HEAD
 Hello_3 -- User2
+=======
+Hello_3 -- User1
+>>>>>>> 1aeaa0694847b6afe4d66939cae024c92e480fbb
